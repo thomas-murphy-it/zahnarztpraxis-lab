@@ -85,14 +85,6 @@ Fiktive Praxis "Müller" mit 5 Abteilungen (Ärzte, Empfang, Verwaltung, Behandl
 
 ---
 
-## Kontakt
-
-- Website: [murphy-it.de](https://murphy-it.de)
-- E-Mail: *[hier eintragen]*
-- Xing: *[hier eintragen]*
-
----
-
 ## Über mich
 
 Thomas Murphy. CNC-Schleifer im Drei-Schicht-Betrieb in Oberschwaben, parallel auf dem Weg in die IT.
